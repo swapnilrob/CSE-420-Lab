@@ -1,0 +1,1 @@
+To run this file you need to open Git Bash, Then in the Git Bash terminal you need to go to the directory for my case it is (cd "/e/Study materials/CSE 420/Lab/Lab 1/Final"). Then you need to run (./script.sh).
